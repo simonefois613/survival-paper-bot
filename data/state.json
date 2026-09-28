@@ -2,7 +2,7 @@
   "bankroll": 100.0,
   "realized_pnl": 0,
   "positions": {},
-  "cycles": 1,
+  "cycles": 2,
   "started_at": "2026-09-28T12:06:14.667055+00:00",
-  "last_cycle": "2026-09-28T12:06:14.667070+00:00"
+  "last_cycle": "2026-09-28T19:36:37.577293+00:00"
 }
