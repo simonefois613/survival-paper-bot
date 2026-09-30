@@ -1,0 +1,2 @@
+timestamp,action,market_id,question,outcome,token_id,price,shares,cost,edge,fair
+2026-09-30T20:12:50.727641+00:00,BUY,5073584,Philadelphia Phillies vs. Atlanta Braves,Philadelphia Phillies,8972205192826496295259358569016962048799702758213166878804825674073686454169,0.257,13.864982,3.5633,0.106186,0.361186
